@@ -14,14 +14,18 @@ I followed a complete Data Science workflow step by step:
 ### 1. Data Loading & Understanding
 - Explored dataset structure, columns, and data types  
 - Checked missing values and basic statistics  
-- Identified data quality issues  
+- Identified data quality issues
+
+---
 
 ### 2. Data Cleaning
 - Fixed inconsistent text values (Gender, Department, etc.)  
 - Handled missing values using median  
 - Removed unrealistic values (like invalid scores/attendance)  
 - Converted incorrect data types  
-- Removed duplicate records  
+- Removed duplicate records
+
+---
 
 ### 3. Data Analysis & Visualization
 - Analyzed how student scores are distributed  
